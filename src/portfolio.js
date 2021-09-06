@@ -113,14 +113,14 @@ const educationInfo = {
       logo: require("./assets/images/nedLogo.png"),
       subHeader: "Software Engineering",
       duration: "September 2019 - Today",
-      desc: "Participated in many projects.",
+      desc: "Participated in many projects."
     },
     {
       schoolName: "Adamjee Govt. Science College",
       logo: require("./assets/images/adamjeeLogo.jpeg"),
       subHeader: "Computer Science",
       duration: "April 2017 - April 2019",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ..."
     }
   ]
 };
@@ -267,7 +267,7 @@ const achievementSection = {
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
       image: require("./assets/images/pwaLogo.webp"),
       footerLink: [
-        { name: "Certification", url: "" },
+        {name: "Certification", url: ""},
         {
           name: "Final Project",
           url: "https://pakistan-olx-1.firebaseapp.com/"
