@@ -42,7 +42,7 @@ export default function StartupProject() {
                   {project.image ? (
                     <div className="project-image">
                       <img
-                        style={{backgroundColor: '#171c28'}}
+                        style={{backgroundColor: "#171c28"}}
                         src={project.image}
                         alt={project.projectName}
                         className="card-image"
